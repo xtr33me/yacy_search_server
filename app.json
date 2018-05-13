@@ -8,14 +8,14 @@
 		"decentralized",
 		"java"
 	],
-	"website": "http://yacy.net",
-	"repository": "https://github.com/yacy/yacy_search_server",
+	"website": "http://cubefection-yacy.herokuapp.com",
+	"repository": "https://github.com/xtr33me/yacy_search_server",
 	"logo": "http://yacy.net/material/YaCyLogo2011.svg",
 	"env": {
 		"YACY_INIT_ADMIN_PASSWORD": {
 			"description": "Administrator initial password : please fill with a Base64 MD5 value",
 			"required": false,
-			"value": "MD5:750c5cbcf42244feb34e55f794956fc7"
+			"value": "MD5:750C5CBCF42244fEB34E55F794956FC7"
 		},
 		"YACY_PUBLIC_URL": {
 			"description": "External URL used by other peers to reach yours, required to run in 'Senior' mode. You chould set it with [your_app_name].herokuapp.com.",
