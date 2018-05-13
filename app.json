@@ -14,11 +14,13 @@
 	"env": {
 		"YACY_INIT_ADMIN_PASSWORD": {
 			"description": "Administrator initial password : please fill with a Base64 MD5 value",
-			"required": false
+			"required": false,
+			"value": "MD5:750c5cbcf42244feb34e55f794956fc7"
 		},
 		"YACY_PUBLIC_URL": {
 			"description": "External URL used by other peers to reach yours, required to run in 'Senior' mode. You chould set it with [your_app_name].herokuapp.com.",
-			"required": false
+			"required": false,
+			"value":"cubefection-yacy.herokuapp.com"
 		},
 		"MAVEN_CUSTOM_OPTS": {
 			"description": "Custom options required for maven build on Heroku.",
