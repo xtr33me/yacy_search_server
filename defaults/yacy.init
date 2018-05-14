@@ -420,7 +420,7 @@ use_proxyAccounts=true
 # http://localhost:8090/ConfigAccounts_p.html
 #adminAccountBase64=MD5:{admin:realm:mysecretpassword}
 adminAccountBase64MD5=MD5:750c5cbcf42244feb34e55f794956fc7
-adminAccountUserName=admin
+adminAccountUserName=xtr33me
 
 # special access handling for users from localhost:
 # access from localhost may be granted with administration authority
