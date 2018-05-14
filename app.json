@@ -8,7 +8,7 @@
 		"decentralized",
 		"java"
 	],
-	"website": "http://cubefection-yacy.herokuapp.com",
+	"website": "http://cubefectionyacy.herokuapp.com",
 	"repository": "https://github.com/xtr33me/yacy_search_server",
 	"logo": "http://yacy.net/material/YaCyLogo2011.svg",
 	"env": {
