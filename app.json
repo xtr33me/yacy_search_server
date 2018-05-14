@@ -20,7 +20,7 @@
 		"YACY_PUBLIC_URL": {
 			"description": "External URL used by other peers to reach yours, required to run in 'Senior' mode. You chould set it with [your_app_name].herokuapp.com.",
 			"required": false,
-			"value":"cubefection-yacy.herokuapp.com"
+			"value":"cubefectionyacy.herokuapp.com"
 		},
 		"MAVEN_CUSTOM_OPTS": {
 			"description": "Custom options required for maven build on Heroku.",
