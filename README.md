@@ -3,6 +3,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Modified file for webpage is in cubefection_web_mod folder
+
+Had to modify header.php to integrate yacy into webpage. Once integrated, 
+it was simply configuring yacy and crawling the website.
+
 ## What is this?
 
 YaCy is a search engine software. It takes a new approach to search
