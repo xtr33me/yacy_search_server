@@ -3,6 +3,14 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Modified website for yacy integration
+
+Decided to modify an old website for a game I released some years back. 
+After the recent release of cryptoman on IPFS, I think I'm going to eventually
+convert over Cubefection for the same deployment. 
+
+Currently I chose to use this site to integrate YACY into for my homework submission.
+
 ## Modified file for webpage is in cubefection_web_mod folder
 
 Had to modify header.php to integrate yacy into webpage. Once integrated, 
